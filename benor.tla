@@ -164,25 +164,3 @@ Progress  == <> (\A j \in Procs: Cardinality(decided[j])>0)
 \* Exclude failed processes
 
 =========================================================
-=============================================================================
-\* Modification History
-\* Last modified Tue Jul 14 16:26:33 EDT 2020 by g_hus
-\* Last modified Fri Jul 03 18:15:09 EDT 2020 by Sheryl Evangelene
-\* Last modified Mon Jun 29 19:19:55 EDT 2020 by Sheryl Evangelene
-\* Last modified Wed Jun 24 08:37:04 EDT 2020 by bekir
-\* Created Wed Jun 24 07:53:22 EDT 2020 by bekir
-
-
-\*
-\* Team Member    Name                            UB Name     #UBID
-\* #1             Sheryl Evangelene Pulikandala   sherylev    50288214
-\* #2             Gulfam Hussain                  gulfamhu    50315477
-
-\* References:
-\* Lecture slides, recordings and piazza discussion
-\* Book- The-PlusCal-Algorithm-Language
-\* Book- Practical TLA+ by Hillel Wayne
-\* https://learntla.com/pluscal/a-simple-spec/
-\* Dr. Murat blog page
-\* https://lamport.azurewebsites.net/pubs/pluscal.pdf
-\* https://lamport.azurewebsites.net/tla/c-manual.pdf
